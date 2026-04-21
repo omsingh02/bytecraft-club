@@ -1,7 +1,20 @@
-# ByteCraft Club
+<div align="center">
+  <h1>ByteCraft Club</h1>
+  <p><strong>Demo landing page for a fictional student developer community.</strong></p>
+  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Website-f59e0b?style=for-the-badge)](https://omsingh02.github.io/bytecraft-club/)
+  [![Main Offer](https://img.shields.io/badge/Portfolio_of-Om_Singh-black?style=for-the-badge)](https://omsingh02.github.io/weekend-launch-page/)
 
-Demo landing page for a fictional student developer community. Built as a portfolio demo to show the kind of community/club pages I deliver through my [Weekend Launch Page](https://omsingh02.github.io/weekend-launch-page/) service.
+  <br>
+  
+  <a href="https://omsingh02.github.io/bytecraft-club/">
+    <img src="https://api.microlink.io/?url=https://omsingh02.github.io/bytecraft-club/&screenshot=true&meta=false&embed=screenshot.url" alt="Preview of ByteCraft Club" width="800">
+  </a>
+</div>
 
+<br>
+
+<br>
 ## What this is
 
 A polished landing page for a student-run technical club. Activities, focus areas, upcoming events, member projects, core team, and join CTA.
