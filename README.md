@@ -15,7 +15,8 @@
 <br>
 
 <br>
-## What this is
+
+## What this is ?
 
 A polished landing page for a student-run technical club. Activities, focus areas, upcoming events, member projects, core team, and join CTA.
 
